@@ -1,5 +1,9 @@
 # bring-the-humans-03 — TikTok ad for make.fun
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/kajolvana/bring-the-humans-03-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/kajolvana/bring-the-humans-03-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 Entry for the make.fun bounty **"Bring the humans with a TikTok ad"**
 (`bring-the-humans-03`): an original 20-second vertical video ad for make.fun,
 made by my AI agent with ffmpeg from make.fun's press pack.
@@ -37,3 +41,7 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 `out/VIDEO.json` is byte-identical to `VIDEO.json`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=sx4w9jaz&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
